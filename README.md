@@ -29,5 +29,5 @@ Personal GitHub profile README showcasing my skills, projects, and learning jour
 ---
 
 ### 📫 Contact Me
-📧 Email: your@email.com  
-🌐 GitHub: https://github.com/YOUR_USERNAME
+📧 Email: uzairprivv@email.com  
+🌐 GitHub: https://github.com/UzairUmair1
